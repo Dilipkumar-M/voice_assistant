@@ -1,0 +1,1 @@
+Jimmie Smart Python Voice Assistant it is a lightweight, extensible voice assistant built in Python. It helps with everyday tasks like note taking, weather updates, reminders, email sending, translations, and fetching news  all through voice and simple terminal commands.
